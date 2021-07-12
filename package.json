@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "devDependencies": {
+        "lite-server": "^2.3.0",
+        "nodemon": "^1.17.3"
+    },
+    "dependencies": {
+        "ethers": "^5.4.0"
+    }
+}
